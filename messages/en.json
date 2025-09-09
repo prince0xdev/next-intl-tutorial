@@ -1,0 +1,9 @@
+{
+  "greeting": "Hello 👋",
+  "welcome": "Welcome to my Next.js multilingual app!",
+  "description": "This app is powered by Next.js 15 and next-intl.",
+  "cta": "Start exploring features below 🚀",
+  "feature1": "🌍 Switch between English and French instantly.",
+  "feature2": "⚡ Enjoy blazing fast rendering with Turbopack.",
+  "feature3": "🛠️ Built with love using React, TypeScript & Tailwind CSS."
+}
